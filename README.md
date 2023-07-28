@@ -1,6 +1,5 @@
 # data_science
 Sigmoildal_Portfolio
-https://github.com/erbertalvesgomes/data_science/blob/main/banner.png
 # Erbert Alves Gomes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
