@@ -1,5 +1,5 @@
-# data_science
-Sigmoildal_Portfolio
+![banner](https://github.com/erbertalvesgomes/data_science/assets/137657275/666b2964-025b-4c81-85cd-ccc10987e87a)
+
 # Erbert Alves Gomes
 <sub>*Lead Data Scientist* at Space Operations Center</sub>
 
